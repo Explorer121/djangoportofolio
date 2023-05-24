@@ -1,0 +1,10 @@
+http://127.0.0.1:8000/admin
+---------Super User ----------
+username : easylearning 
+pw:  udemy12345
+------------------ User ------------
+ariyan
+udemy12345
+
+kazi
+udemy12345
